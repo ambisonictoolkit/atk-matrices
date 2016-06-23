@@ -1,6 +1,6 @@
 // Dimensions
-4
-4
+4                // Rows
+4                // Columns
 
 // Row 1
 1.414213562373
