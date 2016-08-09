@@ -1,4 +1,8 @@
+// set : foa
+
 // type : decoder
+
+// mode : matrix
 
 // kind : hoa1
 

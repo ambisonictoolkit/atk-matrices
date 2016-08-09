@@ -1,4 +1,8 @@
+set : foa
+
 type : encoder
+
+mode : matrix
 
 kind : hoa1
 
