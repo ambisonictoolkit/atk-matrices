@@ -2,7 +2,7 @@
 
 // type : encoder
 
-// mode : matrix
+// op : matrix
 
 // kind : AtoB
 

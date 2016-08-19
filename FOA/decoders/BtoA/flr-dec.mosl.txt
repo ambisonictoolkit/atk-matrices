@@ -2,7 +2,7 @@
 
 // type : decoder
 
-// mode : matrix
+// op : matrix
 
 // kind : BtoA
 
