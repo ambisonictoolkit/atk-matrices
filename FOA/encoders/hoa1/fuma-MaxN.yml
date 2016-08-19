@@ -2,7 +2,7 @@ set : foa
 
 type : encoder
 
-mode : matrix
+op : matrix
 
 kind : hoa1
 

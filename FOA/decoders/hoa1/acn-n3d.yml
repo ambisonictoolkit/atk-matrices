@@ -2,7 +2,7 @@ set : foa
 
 type : decoder
 
-mode : matrix
+op : matrix
 
 kind : hoa1
 
