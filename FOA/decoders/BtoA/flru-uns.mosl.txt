@@ -1,4 +1,4 @@
-// set : foa
+// set : FOA
 
 // type : decoder
 
