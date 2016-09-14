@@ -1,0 +1,20 @@
+set : FOA
+
+type : encoder
+
+op : matrix
+
+kind : omni
+
+note : A first order omni encoder.
+
+author : Ambisonic Toolkit
+
+dirInputs : [ inf ]
+
+dirOutputs : [ inf ]
+
+matrix : [
+[ 7.07106781186547e-01 ]
+]
+

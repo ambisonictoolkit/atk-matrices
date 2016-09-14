@@ -1,0 +1,19 @@
+// set : FOA
+
+// type : encoder
+
+// op : matrix
+
+// kind : omni
+
+// note : A first order omni encoder.
+
+// author : Ambisonic Toolkit
+
+// Dimensions: rows, columns
+1
+1
+
+// Row 0
+0.70710678118655
+
