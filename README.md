@@ -13,23 +13,6 @@ signal format, e.g., _monophonic_ or _stereophonic_, to Ambisonic B-format.
 Decoding means converting from Ambisonic B-format.
 
 
-### Matrix formats
-
-Each matrix is provided in several formats:
-
-***.yml***
-
-A [YAML](http://yaml.org/) file containing the matrix along with verbose metadata. Refer to [flu-dec.yml](FOA/decoders/BtoA/flu-dec.yml) for an example.
-
-***.txt***
-
-A text file containing the matrix, with one row per line, and cell values separated by spaces. Refer to [flu-dec.txt](FOA/decoders/BtoA/flu-dec.txt) for an example.
-
-***.mosl.txt***
-
-A text file containing one cell value per line. The first two values gives the dimension of the matrix as number of rows and number of columns. Empty lines can be used for improved readability. Comment lines can be added, starting with `//`. Inline comments are also supported. Refer to [flu-dec.mosl.txt](FOA/decoders/BtoA/flu-dec.mosl.txt) for an example.
-
-
 #### Encoders
 
 *   Omni - Omnidirectional encoding (monophonic). E.g., pressure only.
@@ -72,6 +55,24 @@ A text file containing one cell value per line. The first two values gives the d
     __Note:__ You should have received a license notice with these matrices.
     Please see the included _Third Party Notices_ for further details on the
     Wiggins contribution.
+
+
+---
+### Matrix formats
+
+Each matrix is provided in several formats:
+
+***.yml***
+
+A [YAML](http://yaml.org/) file containing the matrix along with verbose metadata. Refer to [flu-dec.yml](FOA/decoders/BtoA/flu-dec.yml) for an example.
+
+***.txt***
+
+A text file containing the matrix, with one row per line, and cell values separated by spaces. Refer to [flu-dec.txt](FOA/decoders/BtoA/flu-dec.txt) for an example.
+
+***.mosl.txt***
+
+A text file containing one cell value per line. The first two values gives the dimension of the matrix as number of rows and number of columns. Empty lines can be used for improved readability. Comment lines can be added, starting with `//`. Inline comments are also supported. Refer to [flu-dec.mosl.txt](FOA/decoders/BtoA/flu-dec.mosl.txt) for an example.
 
 
 ---
