@@ -9,14 +9,11 @@ Copyright the [Ambisonic Toolkit](http://ambisonictoolkit.net) Community and Jos
 ## Third Party Notices
 
 
-### Spherical Designs - R. H. Hardin and N. J. A. Sloane
+### Irregular array decoding
 
+Irregular array decoding coefficients (5.0) are kindly provided by
+Bruce Wiggins: http://www.brucewiggins.co.uk/
 
-McLaren's Improved Snub Cube and Other New Spherical Designs in Three
-Dimensions, R. H. Hardin and N. J. A. Sloane, Discrete and
-Computational Geometry, 15 (1996), pp. 429-441.
-
-"A library of putatively optimal spherical t-designs." [Online].
-Available: [http://neilsloane.com/sphdesigns/index.html](http://neilsloane.com/sphdesigns/index.html).
-[Accessed: 04-Sept-2015].
-
+B. Wiggins, "An Investigation into the Real-time Manipulation and
+Control of Three-dimensional Sound Fields," PhD Thesis, University of
+Derby, Derby, 2004.
