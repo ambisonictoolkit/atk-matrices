@@ -72,7 +72,7 @@ A text file containing the matrix, with one row per line, and cell values separa
 
 ***.mosl.txt***
 
-A text file containing one cell value per line. The first two values gives the dimension of the matrix as number of rows and number of columns. Empty lines can be used for improved readability. Comment lines can be added, starting with `//`. Inline comments are also supported. Refer to [flu-dec.mosl.txt](FOA/decoders/BtoA/flu-dec.mosl.txt) for an example.
+A text file containing one cell value per line. The first two values gives the dimension of the matrix as number of rows and number of columns. Empty lines can be used for improved readability. Comment lines can be added, starting with `#` or `;`. Inline comments are also supported. Refer to [flu-dec.mosl.txt](FOA/decoders/BtoA/flu-dec.mosl.txt) for an example.
 
 
 ---
