@@ -123,6 +123,10 @@ to link to other projects making use of Ambisonic Toolkit assets.
 
 ### List of Changes
 
+Version 1.0.1
+* Issue fixes:
+    * fix: refactor mosl.txt to use JSFX comment char #
+
 Version 1.0.0
 *   Initial release
 
@@ -130,6 +134,26 @@ Version 1.0.0
 
 The matrix files distributed with the Ambisonic Toolkit are licensed
 under a Creative Commons Attribution-Share Alike 3.0 Unported [(CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/) License and
-are copyright the Ambisonic Toolkit Community and Joseph Anderson, 2017.
+are copyright the Ambisonic Toolkit Community and Joseph Anderson, 2017-22.
 
 * J Anderson : [[e-mail]](mailto:j.anderson[at]ambisonictoolkit.net)
+
+
+&nbsp;
+
+&nbsp;
+
+Third Party Notices
+===================
+
+&nbsp;
+
+Irregular array decoding
+------------------------
+
+Irregular array decoding coefficients (5.0) are kindly provided by
+Bruce Wiggins: http://www.brucewiggins.co.uk/
+
+B. Wiggins, "An Investigation into the Real-time Manipulation and
+Control of Three-dimensional Sound Fields," PhD Thesis, University of
+Derby, Derby, 2004.
