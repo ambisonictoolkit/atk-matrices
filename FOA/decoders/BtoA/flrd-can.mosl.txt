@@ -1,38 +1,38 @@
-// set : FOA
+# set : FOA
 
-// type : decoder
+# type : decoder
 
-// op : matrix
+# op : matrix
 
-// kind : BtoA
+# kind : BtoA
 
-// note : A first order A-format decoder.
+# note : A first order A-format decoder.
 
-// author : Ambisonic Toolkit
+# author : Ambisonic Toolkit
 
-// Dimensions: rows, columns
+# Dimensions: rows, columns
 4
 4
 
-// Row 0
+# Row 0
 0.50000000000000
 0.28867513459481
 0.70710678118655
 -0.40824829046386
 
-// Row 1
+# Row 1
 0.50000000000000
 0.28867513459481
 -0.70710678118655
 -0.40824829046386
 
-// Row 2
+# Row 2
 0.50000000000000
 0.28867513459481
 0.00000000000000
 0.81649658092773
 
-// Row 3
+# Row 3
 0.50000000000000
 -0.86602540378444
 0.00000000000000

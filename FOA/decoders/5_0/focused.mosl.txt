@@ -1,40 +1,40 @@
-// set : FOA
+# set : FOA
 
-// type : decoder
+# type : decoder
 
-// op : matrix
+# op : matrix
 
-// kind : 5_0
+# kind : 5_0
 
-// note : A first order (Wiggins) 5_0 decoder.
+# note : A first order (Wiggins) 5_0 decoder.
 
-// author : Ambisonic Toolkit
+# author : Ambisonic Toolkit
 
-// Dimensions: rows, columns
+# Dimensions: rows, columns
 5
 3
 
-// Row 0
+# Row 0
 0.20000000000000
 0.16000000000000
 0.00000000000000
 
-// Row 1
+# Row 1
 0.42500000000000
 0.36000000000000
 0.40500000000000
 
-// Row 2
+# Row 2
 0.47000000000000
 -0.33000000000000
 0.41500000000000
 
-// Row 3
+# Row 3
 0.47000000000000
 -0.33000000000000
 -0.41500000000000
 
-// Row 4
+# Row 4
 0.42500000000000
 0.36000000000000
 -0.40500000000000

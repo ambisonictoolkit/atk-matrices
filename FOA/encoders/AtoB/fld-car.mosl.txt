@@ -1,38 +1,38 @@
-// set : FOA
+# set : FOA
 
-// type : encoder
+# type : encoder
 
-// op : matrix
+# op : matrix
 
-// kind : AtoB
+# kind : AtoB
 
-// note : A first order A-format encoder.
+# note : A first order A-format encoder.
 
-// author : Ambisonic Toolkit
+# author : Ambisonic Toolkit
 
-// Dimensions: rows, columns
+# Dimensions: rows, columns
 4
 4
 
-// Row 0
+# Row 0
 0.20412414523193
 0.20412414523193
 0.20412414523193
 0.20412414523193
 
-// Row 1
+# Row 1
 0.50000000000000
 0.50000000000000
 -0.50000000000000
 -0.50000000000000
 
-// Row 2
+# Row 2
 0.50000000000000
 -0.50000000000000
 0.50000000000000
 -0.50000000000000
 
-// Row 3
+# Row 3
 -0.50000000000000
 0.50000000000000
 0.50000000000000

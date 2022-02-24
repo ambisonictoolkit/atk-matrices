@@ -1,34 +1,34 @@
-// set : FOA
+# set : FOA
 
-// type : encoder
+# type : encoder
 
-// op : matrix
+# op : matrix
 
-// kind : 5_0
+# kind : 5_0
 
-// note : A first order 5_0 encoder.
+# note : A first order 5_0 encoder.
 
-// author : Ambisonic Toolkit
+# author : Ambisonic Toolkit
 
-// Dimensions: rows, columns
+# Dimensions: rows, columns
 3
 5
 
-// Row 0
+# Row 0
 0.70710678118655
 0.70710678118655
 0.70710678118655
 0.70710678118655
 0.70710678118655
 
-// Row 1
+# Row 1
 1.00000000000000
 0.86602540378444
 -0.34202014332567
 -0.34202014332567
 0.86602540378444
 
-// Row 2
+# Row 2
 0.00000000000000
 0.50000000000000
 0.93969262078591

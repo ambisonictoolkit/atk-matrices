@@ -1,19 +1,19 @@
-// set : FOA
+# set : FOA
 
-// type : encoder
+# type : encoder
 
-// op : matrix
+# op : matrix
 
-// kind : omni
+# kind : omni
 
-// note : A first order omni encoder.
+# note : A first order omni encoder.
 
-// author : Ambisonic Toolkit
+# author : Ambisonic Toolkit
 
-// Dimensions: rows, columns
+# Dimensions: rows, columns
 1
 1
 
-// Row 0
+# Row 0
 0.70710678118655
 

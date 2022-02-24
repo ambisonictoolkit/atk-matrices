@@ -1,38 +1,38 @@
-// set : FOA
+# set : FOA
 
-// type : encoder
+# type : encoder
 
-// op : matrix
+# op : matrix
 
-// kind : hoa1
+# kind : hoa1
 
-// note : A first order Ambisonic format exchange encoder.
+# note : A first order Ambisonic format exchange encoder.
 
-// author : Ambisonic Toolkit
+# author : Ambisonic Toolkit
 
-// Dimensions: rows, columns
+# Dimensions: rows, columns
 4
 4
 
-// Row 0
+# Row 0
 0.70710678118655
 0.00000000000000
 0.00000000000000
 0.00000000000000
 
-// Row 1
+# Row 1
 0.00000000000000
 1.00000000000000
 0.00000000000000
 0.00000000000000
 
-// Row 2
+# Row 2
 0.00000000000000
 0.00000000000000
 1.00000000000000
 0.00000000000000
 
-// Row 3
+# Row 3
 0.00000000000000
 0.00000000000000
 0.00000000000000

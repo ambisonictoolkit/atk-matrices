@@ -1,38 +1,38 @@
-// set : FOA
+# set : FOA
 
-// type : xformer
+# type : xformer
 
-// op : matrix
+# op : matrix
 
-// kind : mirrorX
+# kind : mirrorX
 
-// note : A first order mirror xformer.
+# note : A first order mirror xformer.
 
-// author : Ambisonic Toolkit
+# author : Ambisonic Toolkit
 
-// Dimensions: rows, columns
+# Dimensions: rows, columns
 4
 4
 
-// Row 0
+# Row 0
 1.00000000000000
 0.00000000000000
 0.00000000000000
 0.00000000000000
 
-// Row 1
+# Row 1
 0.00000000000000
 -1.00000000000000
 0.00000000000000
 0.00000000000000
 
-// Row 2
+# Row 2
 0.00000000000000
 0.00000000000000
 1.00000000000000
 0.00000000000000
 
-// Row 3
+# Row 3
 0.00000000000000
 0.00000000000000
 0.00000000000000
