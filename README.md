@@ -123,6 +123,10 @@ to link to other projects making use of Ambisonic Toolkit assets.
 
 ### List of Changes
 
+Version 1.0.2
+* Organizational:
+    * add github action for release archive
+
 Version 1.0.1
 * Issue fixes:
     * fix: refactor mosl.txt to use JSFX comment char #
